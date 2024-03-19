@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\tema_acasa_total\resumat_curs_baza\bin\Debug\net8.0\resumat_curs_baza.exe
+C:\Users\PC\Desktop\tema_acasa_total\resumat_curs_baza\bin\Debug\net8.0\resumat_curs_baza.deps.json
+C:\Users\PC\Desktop\tema_acasa_total\resumat_curs_baza\bin\Debug\net8.0\resumat_curs_baza.runtimeconfig.json
+C:\Users\PC\Desktop\tema_acasa_total\resumat_curs_baza\bin\Debug\net8.0\resumat_curs_baza.dll
+C:\Users\PC\Desktop\tema_acasa_total\resumat_curs_baza\bin\Debug\net8.0\resumat_curs_baza.pdb
+C:\Users\PC\Desktop\tema_acasa_total\resumat_curs_baza\obj\Debug\net8.0\resumat_curs_baza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\tema_acasa_total\resumat_curs_baza\obj\Debug\net8.0\resumat_curs_baza.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\tema_acasa_total\resumat_curs_baza\obj\Debug\net8.0\resumat_curs_baza.AssemblyInfo.cs
+C:\Users\PC\Desktop\tema_acasa_total\resumat_curs_baza\obj\Debug\net8.0\resumat_curs_baza.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\tema_acasa_total\resumat_curs_baza\obj\Debug\net8.0\resumat_curs_baza.sourcelink.json
+C:\Users\PC\Desktop\tema_acasa_total\resumat_curs_baza\obj\Debug\net8.0\resumat_curs_baza.dll
+C:\Users\PC\Desktop\tema_acasa_total\resumat_curs_baza\obj\Debug\net8.0\refint\resumat_curs_baza.dll
+C:\Users\PC\Desktop\tema_acasa_total\resumat_curs_baza\obj\Debug\net8.0\resumat_curs_baza.pdb
+C:\Users\PC\Desktop\tema_acasa_total\resumat_curs_baza\obj\Debug\net8.0\resumat_curs_baza.genruntimeconfig.cache
+C:\Users\PC\Desktop\tema_acasa_total\resumat_curs_baza\obj\Debug\net8.0\ref\resumat_curs_baza.dll

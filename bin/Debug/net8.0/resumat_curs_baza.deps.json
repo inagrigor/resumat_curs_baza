@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "resumat_curs_baza/1.0.0": {
+        "runtime": {
+          "resumat_curs_baza.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "resumat_curs_baza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
